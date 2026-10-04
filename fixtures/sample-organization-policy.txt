@@ -1,0 +1,10 @@
+ORGANIZATION CONTRACT MANAGEMENT POLICY (INTERNAL)
+
+This internal policy describes how business owners at Northwind Analytics manage vendor contracts. It is guidance for staff only and is not a contract.
+
+1. Renewal Reviews
+1.1 Business owners should begin renewal review ninety (90) days before the expiry of a vendor contract.
+1.2 Finance should be consulted before any renewal decision for vendor contracts above USD 100,000 per year.
+
+2. Reporting
+2.1 Monthly vendor reports should be filed in the contract register within five (5) business days of receipt.
